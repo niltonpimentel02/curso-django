@@ -1,4 +1,4 @@
 requirements:
   - Pipfile
   - Pipfile.lock
-docutils # pyup: ignore filter
+docutils # pyup: >=0.10,<0.16
